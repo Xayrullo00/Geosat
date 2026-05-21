@@ -1,0 +1,85 @@
+{
+  "app": {
+    "name": "AgroSat UZ",
+    "tagline": "Kosmosdan dalangizgacha — AI bilan"
+  },
+  "auth": {
+    "login": "Kirish",
+    "register": "Ro'yxatdan o'tish",
+    "email": "Email",
+    "password": "Parol",
+    "fullName": "To'liq ism",
+    "noAccount": "Hisobingiz yo'qmi?",
+    "hasAccount": "Allaqachon hisobingiz bormi?",
+    "logout": "Chiqish",
+    "passwordHint": "Kamida 8 belgi, katta/kichik harf va raqam"
+  },
+  "onboarding": {
+    "title": "Fermer profilingiz",
+    "step": "Qadam",
+    "next": "Keyingi",
+    "finish": "Tugatish",
+    "segment": "Siz kim siz?",
+    "phone": "Telefon",
+    "region": "Viloyat",
+    "district": "Tuman",
+    "village": "Qishloq / mahalla",
+    "farmName": "Ferma nomi",
+    "area": "Umumiy maydon (gektar)",
+    "crops": "Asosiy ekinlar",
+    "soil": "Tuproq turi",
+    "irrigation": "Sug'orish turi",
+    "experience": "Tajriba (yil)",
+    "fieldTitle": "Dala qo'shish",
+    "fieldName": "Dala nomi",
+    "cropType": "Ekin turi",
+    "fieldArea": "Maydon (ga)",
+    "latitude": "Kenglik",
+    "longitude": "Uzunlik",
+    "addField": "Dala qo'shish"
+  },
+  "segments": {
+    "farmer": "Fermer (10+ ga)",
+    "gardener": "Bog'bon (1–10 ga)",
+    "peasant": "Dehqon (0.5–5 ga)",
+    "small_plot": "Tomorqa egasi (<0.5 ga)"
+  },
+  "nav": {
+    "dashboard": "Bosh sahifa",
+    "satellite": "Sun'iy yo'ldosh",
+    "weather": "Ob-havo",
+    "disease": "Kasallik",
+    "calendar": "Agrotakvim",
+    "forecast": "Hosil prognozi",
+    "crops": "Ekin tavsiyasi",
+    "advisory": "AI maslahat",
+    "fields": "Dalalarim"
+  },
+  "dashboard": {
+    "welcome": "Xush kelibsiz",
+    "quick": "Tezkor modullar"
+  },
+  "satellite": {
+    "title": "Kosmik monitoring",
+    "ndvi": "NDVI indeks",
+    "health": "Sog'liq",
+    "zones": "Zonalar",
+    "bands": "Spektral kanallar",
+    "resolution": "Aniqlik",
+    "revisit": "Yangilanish"
+  },
+  "weather": {
+    "title": "Ob-havo va sug'orish",
+    "irrigateToday": "Bugun sug'orasizmi?",
+    "yes": "Ha",
+    "no": "Yo'q",
+    "nasa": "NASA POWER ma'lumoti"
+  },
+  "common": {
+    "language": "Til",
+    "save": "Saqlash",
+    "loading": "Yuklanmoqda...",
+    "error": "Xatolik",
+    "submit": "Yuborish"
+  }
+}

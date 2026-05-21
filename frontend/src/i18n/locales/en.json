@@ -1,0 +1,85 @@
+{
+  "app": {
+    "name": "AgroSat UZ",
+    "tagline": "From space to your field — powered by AI"
+  },
+  "auth": {
+    "login": "Sign in",
+    "register": "Sign up",
+    "email": "Email",
+    "password": "Password",
+    "fullName": "Full name",
+    "noAccount": "No account?",
+    "hasAccount": "Already have an account?",
+    "logout": "Log out",
+    "passwordHint": "At least 8 chars with upper, lower, and a digit"
+  },
+  "onboarding": {
+    "title": "Farmer profile",
+    "step": "Step",
+    "next": "Next",
+    "finish": "Finish",
+    "segment": "Who are you?",
+    "phone": "Phone",
+    "region": "Region",
+    "district": "District",
+    "village": "Village",
+    "farmName": "Farm name",
+    "area": "Total area (ha)",
+    "crops": "Main crops",
+    "soil": "Soil type",
+    "irrigation": "Irrigation type",
+    "experience": "Experience (years)",
+    "fieldTitle": "Add field",
+    "fieldName": "Field name",
+    "cropType": "Crop type",
+    "fieldArea": "Area (ha)",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "addField": "Add field"
+  },
+  "segments": {
+    "farmer": "Farmer (10+ ha)",
+    "gardener": "Gardener (1–10 ha)",
+    "peasant": "Peasant (0.5–5 ha)",
+    "small_plot": "Small plot (<0.5 ha)"
+  },
+  "nav": {
+    "dashboard": "Home",
+    "satellite": "Satellite",
+    "weather": "Weather",
+    "disease": "Disease",
+    "calendar": "Agro calendar",
+    "forecast": "Yield forecast",
+    "crops": "Crop advice",
+    "advisory": "AI advisory",
+    "fields": "My fields"
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "quick": "Quick modules"
+  },
+  "satellite": {
+    "title": "Satellite monitoring",
+    "ndvi": "NDVI index",
+    "health": "Health",
+    "zones": "Zones",
+    "bands": "Spectral bands",
+    "resolution": "Resolution",
+    "revisit": "Revisit"
+  },
+  "weather": {
+    "title": "Weather & irrigation",
+    "irrigateToday": "Irrigate today?",
+    "yes": "Yes",
+    "no": "No",
+    "nasa": "NASA POWER data"
+  },
+  "common": {
+    "language": "Language",
+    "save": "Save",
+    "loading": "Loading...",
+    "error": "Error",
+    "submit": "Submit"
+  }
+}

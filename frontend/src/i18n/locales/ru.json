@@ -1,0 +1,85 @@
+{
+  "app": {
+    "name": "AgroSat UZ",
+    "tagline": "Из космоса до вашего поля — с ИИ"
+  },
+  "auth": {
+    "login": "Вход",
+    "register": "Регистрация",
+    "email": "Email",
+    "password": "Пароль",
+    "fullName": "Полное имя",
+    "noAccount": "Нет аккаунта?",
+    "hasAccount": "Уже есть аккаунт?",
+    "logout": "Выход",
+    "passwordHint": "Минимум 8 символов, верхний/нижний регистр и цифра"
+  },
+  "onboarding": {
+    "title": "Профиль фермера",
+    "step": "Шаг",
+    "next": "Далее",
+    "finish": "Завершить",
+    "segment": "Кто вы?",
+    "phone": "Телефон",
+    "region": "Область",
+    "district": "Район",
+    "village": "Село / махалля",
+    "farmName": "Название хозяйства",
+    "area": "Общая площадь (га)",
+    "crops": "Основные культуры",
+    "soil": "Тип почвы",
+    "irrigation": "Тип орошения",
+    "experience": "Опыт (лет)",
+    "fieldTitle": "Добавить поле",
+    "fieldName": "Название поля",
+    "cropType": "Культура",
+    "fieldArea": "Площадь (га)",
+    "latitude": "Широта",
+    "longitude": "Долгота",
+    "addField": "Добавить поле"
+  },
+  "segments": {
+    "farmer": "Фермер (10+ га)",
+    "gardener": "Садовод (1–10 га)",
+    "peasant": "Дехканин (0.5–5 га)",
+    "small_plot": "Приусадебный участок (<0.5 га)"
+  },
+  "nav": {
+    "dashboard": "Главная",
+    "satellite": "Спутник",
+    "weather": "Погода",
+    "disease": "Болезни",
+    "calendar": "Агрокалендарь",
+    "forecast": "Прогноз урожая",
+    "crops": "Рекомендации",
+    "advisory": "ИИ совет",
+    "fields": "Мои поля"
+  },
+  "dashboard": {
+    "welcome": "Добро пожаловать",
+    "quick": "Быстрые модули"
+  },
+  "satellite": {
+    "title": "Космический мониторинг",
+    "ndvi": "Индекс NDVI",
+    "health": "Состояние",
+    "zones": "Зоны",
+    "bands": "Спектральные каналы",
+    "resolution": "Разрешение",
+    "revisit": "Обновление"
+  },
+  "weather": {
+    "title": "Погода и полив",
+    "irrigateToday": "Поливать сегодня?",
+    "yes": "Да",
+    "no": "Нет",
+    "nasa": "Данные NASA POWER"
+  },
+  "common": {
+    "language": "Язык",
+    "save": "Сохранить",
+    "loading": "Загрузка...",
+    "error": "Ошибка",
+    "submit": "Отправить"
+  }
+}
